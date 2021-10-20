@@ -1,0 +1,14 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    justify-content: flex-end;
+    font-size: 0.9rem;
+    height: 4%;
+}
+
+.github {
+    color: gray;
+    text-decoration: none;
+    
+    font-family: 'Courier New', Courier, monospace;
+}

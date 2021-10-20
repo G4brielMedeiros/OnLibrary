@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 b91b9a7ad51ad7a834106a64e84494b68ab9aa09 G4brielMedeiros <GabrielLinsMedeiros@gmail.com> 1633491408 -0300	commit (initial): initial commit
+b91b9a7ad51ad7a834106a64e84494b68ab9aa09 a91e39ba13c6aed5c604671a0c482c83e8da6bda G4brielMedeiros <GabrielLinsMedeiros@gmail.com> 1633492634 -0300	commit: Angular Material installed in the project.
+a91e39ba13c6aed5c604671a0c482c83e8da6bda 5bc1b2ca9b32a57d39e6ef235c1254b09adf842c G4brielMedeiros <GabrielLinsMedeiros@gmail.com> 1633494509 -0300	commit: Added header.
+5bc1b2ca9b32a57d39e6ef235c1254b09adf842c 3444e611d2a22c296eda6a12fbd4448cd2fe4b75 G4brielMedeiros <GabrielLinsMedeiros@gmail.com> 1633552570 -0300	commit: Implementing UI/UX.
+3444e611d2a22c296eda6a12fbd4448cd2fe4b75 0aeb4cfb299fdfb5ed454e598cb3a774aa5bd287 G4brielMedeiros <GabrielLinsMedeiros@gmail.com> 1633578364 -0300	commit: READ categories implemented.
+0aeb4cfb299fdfb5ed454e598cb3a774aa5bd287 e71ea93f77d54852ffa6349b83fb373a890478b9 G4brielMedeiros <GabrielLinsMedeiros@gmail.com> 1633629653 -0300	commit: Adjusted Read component.
+e71ea93f77d54852ffa6349b83fb373a890478b9 ef1ec10dec48220988151b44314d1376db383155 G4brielMedeiros <GabrielLinsMedeiros@gmail.com> 1633666631 -0300	commit: Moved foward on the Create Category functionality.
+ef1ec10dec48220988151b44314d1376db383155 465f98a54ef7efa81997c79e60c947058a01ddb3 G4brielMedeiros <GabrielLinsMedeiros@gmail.com> 1633913865 -0300	commit: CREATE Method implemented for Category.
+465f98a54ef7efa81997c79e60c947058a01ddb3 49c2548ac9ca35172c059aa6d51225c4ff4a2881 G4brielMedeiros <GabrielLinsMedeiros@gmail.com> 1633975645 -0300	commit: Implemented Cancel to Create Category.
+49c2548ac9ca35172c059aa6d51225c4ff4a2881 1eed468c3609cc13866e9c082a05a2f59376988e G4brielMedeiros <GabrielLinsMedeiros@gmail.com> 1633980065 -0300	commit: Finished implementing DELETE Category feature.
+1eed468c3609cc13866e9c082a05a2f59376988e 59446750cae565812ba96f81704ee12c98a1793b G4brielMedeiros <GabrielLinsMedeiros@gmail.com> 1633983643 -0300	commit: UPDATE category feature updated.
+59446750cae565812ba96f81704ee12c98a1793b b958d6045109387b71117f98058d446b57955a3c G4brielMedeiros <GabrielLinsMedeiros@gmail.com> 1634165739 -0300	commit: implemented read all books by category.
+b958d6045109387b71117f98058d446b57955a3c 3b8afc7828d4001b7974957679b52b2e77838f66 G4brielMedeiros <GabrielLinsMedeiros@gmail.com> 1634537647 -0300	commit: CREATE Book feature added.
+3b8afc7828d4001b7974957679b52b2e77838f66 a62cbf1f6e39a3afbb5f48aa6ee782d2368fc04d G4brielMedeiros <GabrielLinsMedeiros@gmail.com> 1634604101 -0300	commit: UPDATE book implemented.
+a62cbf1f6e39a3afbb5f48aa6ee782d2368fc04d a62cbf1f6e39a3afbb5f48aa6ee782d2368fc04d G4brielMedeiros <GabrielLinsMedeiros@gmail.com> 1634678391 -0300	reset: moving to HEAD
+a62cbf1f6e39a3afbb5f48aa6ee782d2368fc04d a62cbf1f6e39a3afbb5f48aa6ee782d2368fc04d G4brielMedeiros <GabrielLinsMedeiros@gmail.com> 1634678409 -0300	reset: moving to HEAD
+a62cbf1f6e39a3afbb5f48aa6ee782d2368fc04d a62cbf1f6e39a3afbb5f48aa6ee782d2368fc04d G4brielMedeiros <GabrielLinsMedeiros@gmail.com> 1634678467 -0300	reset: moving to HEAD
+a62cbf1f6e39a3afbb5f48aa6ee782d2368fc04d 8d59e5a9741162c247d04af427e2ccba187d378e G4brielMedeiros <GabrielLinsMedeiros@gmail.com> 1634757013 -0300	commit: DELETE Book feature completed.
+8d59e5a9741162c247d04af427e2ccba187d378e 4ca3ce26b16b5f1f0ccf47eea728d544dfeb5916 G4brielMedeiros <GabrielLinsMedeiros@gmail.com> 1634758394 -0300	commit: READ BOOK feature added.
